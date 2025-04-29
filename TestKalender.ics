@@ -2,9 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Dornier MedTech//Kalender//DE
 
-// Monatsabschluss jeden Monatsletzten ganztägig
 BEGIN:VEVENT
-UID:monatsabschluss
+UID:monatsabschluss@dorniermedtech.com
 SUMMARY:Monatsabschluss
 DTSTART;VALUE=DATE:20240430
 DTEND;VALUE=DATE:20240501
@@ -12,9 +11,8 @@ RRULE:FREQ=MONTHLY;BYMONTHDAY=-1
 DESCRIPTION:Monatsabschluss ganztägig
 END:VEVENT
 
-// Wöchentlicher Teams-Call jeden Montag um 10:00 Uhr
 BEGIN:VEVENT
-UID:WöchentlicherTeamsCall
+UID:woechentlicher-teams-call@dorniermedtech.com
 SUMMARY:Wöchentlicher Teams Call
 DTSTART;TZID=Europe/Berlin:20240429T100000
 DTEND;TZID=Europe/Berlin:20240429T110000
@@ -22,9 +20,8 @@ RRULE:FREQ=WEEKLY;BYDAY=MO
 DESCRIPTION:Wöchentlicher Teams-Call via Teams
 END:VEVENT
 
-// Wöchentlicher Gruppen-Call jeden Mittwoch um 10:00 Uhr
 BEGIN:VEVENT
-UID:WöchentlicherGruppenCall
+UID:woechentlicher-gruppen-call@dorniermedtech.com
 SUMMARY:Wöchentlicher Gruppen Call
 DTSTART;TZID=Europe/Berlin:20240501T100000
 DTEND;TZID=Europe/Berlin:20240501T110000
@@ -32,9 +29,8 @@ RRULE:FREQ=WEEKLY;BYDAY=WE
 DESCRIPTION:Wöchentlicher Gruppen-Call
 END:VEVENT
 
-// Betriebsferien Weihnachten: jedes Jahr vom 23. Dezember bis 6. Januar
 BEGIN:VEVENT
-UID:BetriebsferienWeihnachten
+UID:betriebsferien-weihnachten@dorniermedtech.com
 SUMMARY:Betriebsferien Weihnachten
 DTSTART;VALUE=DATE:20241223
 DTEND;VALUE=DATE:20250106
@@ -42,9 +38,8 @@ RRULE:FREQ=YEARLY
 DESCRIPTION:Jährliche Betriebsferien zu Weihnachten
 END:VEVENT
 
-// Betriebsferien Pfingsten: jedes Jahr beispielhaft Anfang Juni eine Woche
 BEGIN:VEVENT
-UID:BetriebsferienPfingsten
+UID:betriebsferien-pfingsten@dorniermedtech.com
 SUMMARY:Betriebsferien Pfingsten
 DTSTART;VALUE=DATE:20250602
 DTEND;VALUE=DATE:20250609
@@ -53,4 +48,5 @@ DESCRIPTION:Jährliche Betriebsferien zu Pfingsten
 END:VEVENT
 
 END:VCALENDAR
+
 
