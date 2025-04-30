@@ -3,15 +3,6 @@ VERSION:2.0
 PRODID:-//Dornier MedTech//Kalender//DE
 
 BEGIN:VEVENT
-UID:woechentlicher-teams-call@dorniermedtech.com
-SUMMARY:Wöchentlicher Teams Call
-DTSTART;TZID=Europe/Berlin:20250428T100000
-DTEND;TZID=Europe/Berlin:20250428T110000
-RRULE:FREQ=WEEKLY;BYDAY=MO
-DESCRIPTION:Wöchentlicher Teams-Call via Teams
-END:VEVENT
-
-BEGIN:VEVENT
 UID:betriebsferien-weihnachten@dorniermedtech.com
 SUMMARY:Betriebsferien Weihnachten
 DTSTART;VALUE=DATE:20251223
