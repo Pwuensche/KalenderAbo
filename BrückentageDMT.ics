@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Dornier MedTech//Brueckentage 2025//DE
+
+BEGIN:VEVENT
+UID:brueckentag-20250502@dorniermedtech.com
+SUMMARY:Brückentag (nach 1. Mai)
+DTSTART;VALUE=DATE:20250502
+DTEND;VALUE=DATE:20250503
+DESCRIPTION:Brückentag nach Tag der Arbeit
+END:VEVENT
+
+BEGIN:VEVENT
+UID:brueckentag-20250530@dorniermedtech.com
+SUMMARY:Brückentag (nach Christi Himmelfahrt)
+DTSTART;VALUE=DATE:20250530
+DTEND;VALUE=DATE:20250531
+DESCRIPTION:Brückentag nach Christi Himmelfahrt
+END:VEVENT
+
+BEGIN:VEVENT
+UID:brueckentag-20250620@dorniermedtech.com
+SUMMARY:Brückentag (nach Fronleichnam)
+DTSTART;VALUE=DATE:20250620
+DTEND;VALUE=DATE:20250621
+DESCRIPTION:Brückentag nach Fronleichnam
+END:VEVENT
+
+BEGIN:VEVENT
+UID:brueckentag-20251003@dorniermedtech.com
+SUMMARY:Tag der Deutschen Einheit
+DTSTART;VALUE=DATE:20251003
+DTEND;VALUE=DATE:20251004
+DESCRIPTION:Feiertag (Freitag)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:brueckentag-20251031@dorniermedtech.com
+SUMMARY:Reformationstag (regional)
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+DESCRIPTION:Feiertag in einigen Bundesländern
+END:VEVENT
+
+BEGIN:VEVENT
+UID:brueckentag-20251224@dorniermedtech.com
+SUMMARY:Heiligabend
+DTSTART;VALUE=DATE:20251224
+DTEND;VALUE=DATE:20251225
+DESCRIPTION:Nicht gesetzlicher Feiertag,
