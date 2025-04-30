@@ -3,15 +3,6 @@ VERSION:2.0
 PRODID:-//Dornier MedTech//Kalender//DE
 
 BEGIN:VEVENT
-UID:monatsabschluss@dorniermedtech.com
-SUMMARY:Monatsabschluss
-DTSTART;VALUE=DATE:20240430
-DTEND;VALUE=DATE:20240501
-RRULE:FREQ=MONTHLY;BYMONTHDAY=-1
-DESCRIPTION:Monatsabschluss ganztägig
-END:VEVENT
-
-BEGIN:VEVENT
 UID:woechentlicher-teams-call@dorniermedtech.com
 SUMMARY:Wöchentlicher Teams Call
 DTSTART;TZID=Europe/Berlin:20240429T100000
@@ -21,30 +12,99 @@ DESCRIPTION:Wöchentlicher Teams-Call via Teams
 END:VEVENT
 
 BEGIN:VEVENT
-UID:woechentlicher-gruppen-call@dorniermedtech.com
-SUMMARY:Wöchentlicher Gruppen Call
-DTSTART;TZID=Europe/Berlin:20240501T090000
-DTEND;TZID=Europe/Berlin:20240501T120000
-RRULE:FREQ=WEEKLY;BYDAY=WE
-DESCRIPTION:Wöchentlicher Gruppen-Call
+UID:monatsabschluss-2024-04@dorniermedtech.com
+SUMMARY:Monatsabschluss
+DTSTART;VALUE=DATE:20240430
+DTEND;VALUE=DATE:20240501
+DESCRIPTION:Letzter Werktag im Monat – Monatsabschluss
 END:VEVENT
 
 BEGIN:VEVENT
-UID:betriebsferien-weihnachten@dorniermedtech.com
-SUMMARY:Betriebsferien Weihnachten
+UID:quartalsabschluss-2024-06@dorniermedtech.com
+SUMMARY:Quartalsabschluss
+DTSTART;VALUE=DATE:20240624
+DTEND;VALUE=DATE:20240629
+DESCRIPTION:Letzte Woche im Quartal – Quartalsabschluss
+END:VEVENT
+
+BEGIN:VEVENT
+UID:monatsabschluss-2024-05@dorniermedtech.com
+SUMMARY:Monatsabschluss
+DTSTART;VALUE=DATE:20240531
+DTEND;VALUE=DATE:20240601
+DESCRIPTION:Letzter Werktag im Monat – Monatsabschluss
+END:VEVENT
+
+BEGIN:VEVENT
+UID:monatsabschluss-2024-06@dorniermedtech.com
+SUMMARY:Monatsabschluss
+DTSTART;VALUE=DATE:20240628
+DTEND;VALUE=DATE:20240629
+DESCRIPTION:Letzter Werktag im Monat – Monatsabschluss
+END:VEVENT
+
+BEGIN:VEVENT
+UID:monatsabschluss-2024-07@dorniermedtech.com
+SUMMARY:Monatsabschluss
+DTSTART;VALUE=DATE:20240731
+DTEND;VALUE=DATE:20240801
+DESCRIPTION:Letzter Werktag im Monat – Monatsabschluss
+END:VEVENT
+
+BEGIN:VEVENT
+UID:monatsabschluss-2024-08@dorniermedtech.com
+SUMMARY:Monatsabschluss
+DTSTART;VALUE=DATE:20240830
+DTEND;VALUE=DATE:20240831
+DESCRIPTION:Letzter Werktag im Monat – Monatsabschluss
+END:VEVENT
+
+BEGIN:VEVENT
+UID:quartalsabschluss-2024-09@dorniermedtech.com
+SUMMARY:Quartalsabschluss
+DTSTART;VALUE=DATE:20240923
+DTEND;VALUE=DATE:20240930
+DESCRIPTION:Letzte Woche im Quartal – Quartalsabschluss
+END:VEVENT
+
+BEGIN:VEVENT
+UID:monatsabschluss-2024-09@dorniermedtech.com
+SUMMARY:Monatsabschluss
+DTSTART;VALUE=DATE:20240930
+DTEND;VALUE=DATE:20241001
+DESCRIPTION:Letzter Werktag im Monat – Monatsabschluss
+END:VEVENT
+
+BEGIN:VEVENT
+UID:monatsabschluss-2024-10@dorniermedtech.com
+SUMMARY:Monatsabschluss
+DTSTART;VALUE=DATE:20241031
+DTEND;VALUE=DATE:20241101
+DESCRIPTION:Letzter Werktag im Monat – Monatsabschluss
+END:VEVENT
+
+BEGIN:VEVENT
+UID:monatsabschluss-2024-11@dorniermedtech.com
+SUMMARY:Monatsabschluss
+DTSTART;VALUE=DATE:20241129
+DTEND;VALUE=DATE:20241130
+DESCRIPTION:Letzter Werktag im Monat – Monatsabschluss
+END:VEVENT
+
+BEGIN:VEVENT
+UID:monatsabschluss-2024-12@dorniermedtech.com
+SUMMARY:Monatsabschluss
+DTSTART;VALUE=DATE:20241231
+DTEND;VALUE=DATE:20250101
+DESCRIPTION:Letzter Werktag im Monat – Monatsabschluss
+END:VEVENT
+
+BEGIN:VEVENT
+UID:quartalsabschluss-2024-12@dorniermedtech.com
+SUMMARY:Quartalsabschluss
 DTSTART;VALUE=DATE:20241223
-DTEND;VALUE=DATE:20250106
-RRULE:FREQ=YEARLY
-DESCRIPTION:Jährliche Betriebsferien zu Weihnachten
-END:VEVENT
-
-BEGIN:VEVENT
-UID:betriebsferien-pfingsten@dorniermedtech.com
-SUMMARY:Betriebsferien Pfingsten
-DTSTART;VALUE=DATE:20250602
-DTEND;VALUE=DATE:20250609
-RRULE:FREQ=YEARLY
-DESCRIPTION:Jährliche Betriebsferien zu Pfingsten
+DTEND;VALUE=DATE:20241231
+DESCRIPTION:Letzte Woche im Quartal – Quartalsabschluss
 END:VEVENT
 
 END:VCALENDAR
