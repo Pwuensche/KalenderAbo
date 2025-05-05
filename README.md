@@ -13,7 +13,7 @@ Dieses Projekt ermöglicht es, Kalender im ICS-Format über eine zentrale GitHub
 1. Die `.ics`-Dateien werden in diesem Repository abgelegt und gepflegt.
 2. Nutzer können die **RAW-URL** einer Kalenderdatei kopieren.
 3. In Outlook kann diese URL unter **"Kalender aus dem Internet abonnieren"** eingefügt werden.
-4. Outlook synchronisiert regelmäßig mit GitHub – Änderungen an der Datei sind sofort sichtbar.
+4. Outlook synchronisiert regelmäßig mit GitHub Änderungen an der Datei sind sofort sichtbar.
 
 ## Beispiel: Outlook Integration
 
