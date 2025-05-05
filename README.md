@@ -35,20 +35,20 @@ Dieses Projekt ermöglicht es, Kalender im ICS-Format über eine zentrale GitHub
 
 ## Abo Calendar for Outlook EN
 
-Welcome to the **Abo Calendar for Outlook** – a simple solution to centrally host `.ics` calendar files via GitHub and automatically sync them with Microsoft Outlook.
+Welcome to the **Abo Calendar for Outlook** a simple solution to centrally host `.ics` calendar files via GitHub and automatically sync them with Microsoft Outlook.
 
 ## Project Description
 
 This project allows you to host ICS-format calendars in a central GitHub repository. Users can subscribe to these calendar files via a direct URL in Outlook, enabling automatic synchronization whenever changes are made to the `.ics` files.
 
-> No more manual importing – just subscribe once and stay in sync automatically!
+> No more manual importing just subscribe once and stay in sync automatically!
 
 ## How It Works
 
 1. The `.ics` files are stored and maintained within this repository.
 2. Users can copy the **RAW URL** of any calendar file.
 3. In Outlook, this URL can be added via **"Subscribe from the Internet"**.
-4. Outlook will regularly sync with GitHub – updates to the file will be reflected automatically.
+4. Outlook will regularly sync with GitHub updates to the file will be reflected automatically.
 
 ## Example: Outlook Integration
 
@@ -67,6 +67,4 @@ This project allows you to host ICS-format calendars in a central GitHub reposit
 ## Author
 
 **Pascal Wünsche**
-
-
 
