@@ -24,12 +24,6 @@ Dieses Projekt ermöglicht es, Kalender im ICS-Format über eine zentrale GitHub
 
 4. Outlook importiert den Kalender und hält ihn automatisch aktuell.
 
-## Verzeichnisstruktur
-├── kalender.ics
-├── ferien.ics
-├── feiertage.ics
-└── README.md
-
 ## Vorteile
 
 - Öffentliche, zentral gepflegte Kalenderdaten
