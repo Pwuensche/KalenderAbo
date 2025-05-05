@@ -1,6 +1,6 @@
 ## Abo Kalender für Outlook DE
 
-Willkommen beim **Abo Kalender für Outlook** – einem einfachen Weg, zentrale `.ics`-Kalenderdateien über GitHub bereitzustellen und automatisch mit Outlook zu synchronisieren.
+Willkommen beim **Abo Kalender für Outlook** einem einfachen Weg, zentrale `.ics`-Kalenderdateien über GitHub bereitzustellen und automatisch mit Outlook zu synchronisieren.
 
 ## Projektbeschreibung
 
